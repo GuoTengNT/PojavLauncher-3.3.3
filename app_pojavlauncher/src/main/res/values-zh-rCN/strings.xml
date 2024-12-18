@@ -54,6 +54,7 @@
     <string name="mcl_setting_renderer_vulkan_zink">Zink（Vulkan）-（全版本可用，速度中等，设备兼容性差）</string>
     <string name="mcl_setting_renderer_angle">ANGLE（Vulkan）-（仅支持 1.17 以上的版本，速度中等）</string>
     <string name="mcl_setting_renderer_opengles3_ltw">LTinywapper (OpenGL ES 3) - 1.17+ 以上的版本</string>
+    <string name="mcl_setting_renderer_ltw">LTW (OpenGL ES 3) - 1.17+ 以上版本</string>
     <string name="mcl_setting_veroption_release">正式版</string>
     <string name="mcl_setting_veroption_snapshot">快照版</string>
     <string name="mcl_setting_veroption_oldalpha">远古 alpha 版</string>
